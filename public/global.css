@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+body {
+  padding: 20px;
+}
+@media screen and (max-width: 500px) {
+  body {
+    padding: 5px;
+  }
+}
